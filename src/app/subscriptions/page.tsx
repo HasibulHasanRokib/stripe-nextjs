@@ -49,7 +49,7 @@ export default function Page() {
                   </div>
 
                   <Button
-                    variant={plan.recommended ? "blue" : "default"}
+                    variant={plan.recommended ? "outline" : "default"}
                     className="mb-8 w-full"
                     size="lg"
                   >
